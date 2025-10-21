@@ -12,7 +12,4 @@ This is a prototype command-line application that allows storing, listing, and s
 -  **Statistics**: View task completion statistics and progress
 -  **JSON Storage**: All data is automatically saved to a JSON file
 
-## Requirements
-- Python 3.6 or higher
-- No additional dependencies required (uses only Python standard library)
 
